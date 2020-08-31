@@ -7,3 +7,5 @@ the assignment spec.
 
 The project was intended to translate an ordinary differential equation into python utilising the numpy module
 to perform data analysis and extrapolation.
+
+All test files were initially built by the course convener, and with their permission we were able to build our own test cases on top of theirs.
